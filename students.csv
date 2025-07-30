@@ -1,0 +1,70 @@
+No.,Student ID,Student Name,Age,Email,Enrolled Courses
+1,21000,Alice Johnson,20,alice.johnson@gmail.com,DMS1234 | WD5678
+2,21001,Bob Smith,22,bob.smith@gmail.com,DMS1234 | WD5678
+3,21002,Charlie Brown,21,charlie.brown@gmail.com,SE2345 | AI6789 | AIN1212
+4,21003,Diana Evans,19,diana.evans@gmail.com,ITP3456 | DSA7890 | PET0293
+5,21004,Ethan Lee,20,ethan.lee@gmail.com,DMS1234 | WD5678 | ML9012
+6,21005,Fiona Green,21,fiona.green@gmail.com,SE2345 | AI6789 | AIN1212
+7,21006,George Harris,22,george.harris@gmail.com,ITP3456 | DSA7890 | PET0293
+8,21007,Hannah Clark,20,hannah.clark@gmail.com,DMS1234 | WD5678 | ML9012
+9,21008,Ian Walker,21,ian.walker@gmail.com,SE2345 | AI6789 | AIN1212
+10,21009,Jenny Hall,19,jenny.hall@gmail.com,ITP3456 | DSA7890 | PET0293
+11,21010,Kevin Young,20,kevin.young@gmail.com,DMS1234 | WD5678 | ML9012
+12,21011,Laura King,22,laura.king@gmail.com,SE2345 | AI6789 | AIN1212
+13,21012,Michael Scott,21,michael.scott@gmail.com,ITP3456 | DSA7890 | PET0293
+14,21013,Nina Adams,20,nina.adams@gmail.com,DMS1234 | WD5678 | ML9012
+15,21014,Oscar Brown,19,oscar.brown@gmail.com,SE2345 | AI6789 | AIN1212
+16,21015,Paula Wilson,21,paula.wilson@gmail.com,ITP3456 | DSA7890 | PET0293
+17,21016,Quincy Harris,22,quincy.harris@gmail.com,DMS1234 | WD5678 | ML9012
+18,21017,Rachel Green,20,rachel.green@gmail.com,SE2345 | AI6789 | AIN1212
+19,21018,Steve White,21,steve.white@gmail.com,ITP3456 | DSA7890 | PET0293
+20,21019,Tina Moore,19,tina.moore@gmail.com,DMS1234 | WD5678 | ML9012
+21,21020,Victor Taylor,20,victor.taylor@gmail.com,SE2345 | AI6789 | AIN1212
+22,21021,Wendy Anderson,22,wendy.anderson@gmail.com,ITP3456 | DSA7890 | PET0293
+23,21022,Xander Thomas,21,xander.thomas@gmail.com,DMS1234 | WD5678 | ML9012
+24,21023,Yara Martinez,20,yara.martinez@gmail.com,SE2345 | AI6789 | AIN1212
+25,21024,Zack Robinson,19,zack.robinson@gmail.com,ITP3456 | DSA7890 | PET0293
+26,21025,Amy Lewis,21,amy.lewis@gmail.com,DMS1234 | WD5678 | ML9012
+27,21026,Brian Hall,22,brian.hall@gmail.com,SE2345 | AI6789 | AIN1212
+28,21027,Cathy Allen,20,cathy.allen@gmail.com,ITP3456 | DSA7890 | PET0293
+29,21028,David Young,21,david.young@gmail.com,DMS1234 | WD5678 | ML9012
+30,21029,Emma Wright,19,emma.wright@gmail.com,SE2345 | AI6789 | AIN1212
+31,21030,Frank Harris,20,frank.harris@gmail.com,ITP3456 | DSA7890 | PET0293
+32,21031,Grace Lee,22,grace.lee@gmail.com,DMS1234 | WD5678 | ML9012
+33,21032,Henry Adams,21,henry.adams@gmail.com,SE2345 | AI6789 | AIN1212
+34,21033,Ivy Brown,20,ivy.brown@gmail.com,ITP3456 | DSA7890 | PET0293
+35,21034,Jack Wilson,19,jack.wilson@gmail.com,DMS1234 | WD5678 | ML9012
+36,21035,Kate Green,21,kate.green@gmail.com,SE2345 | AI6789 | AIN1212
+37,21036,Luke Scott,22,luke.scott@gmail.com,ITP3456 | DSA7890 | PET0293
+38,21037,Mia Clark,20,mia.clark@gmail.com,DMS1234 | WD5678 | ML9012
+39,21038,Nick Walker,21,nick.walker@gmail.com,SE2345 | AI6789 | AIN1212
+40,21039,Olivia Hall,19,olivia.hall@gmail.com,ITP3456 | DSA7890 | PET0293
+41,21040,Peter Young,20,peter.young@gmail.com,DMS1234 | WD5678
+42,21041,Quinn King,22,quinn.king@gmail.com,SE2345 | AI6789 | AIN1212
+43,21042,Ryan Scott,21,ryan.scott@gmail.com,ITP3456 | DSA7890 | PET0293
+44,21043,Sara Adams,20,sara.adams@gmail.com,DMS1234 | WD5678 | ML9012
+45,21044,Tom Brown,19,tom.brown@gmail.com,ML9012 | AI6789 | AIN1212 | PET0293 | WD5678
+46,21045,Una Wilson,21,una.wilson@gmail.com,ITP3456 | DSA7890 | PET0293
+47,21046,Vince Harris,22,vince.harris@gmail.com,DMS1234 | WD5678 | ML9012
+48,21047,Wendy Green,20,wendy.green@gmail.com,SE2345 | AI6789 | AIN1212
+49,21048,Xander White,21,xander.white@gmail.com,ITP3456 | DSA7890 | PET0293
+50,21049,Yvonne Moore,19,yvonne.moore@gmail.com,DMS1234 | WD5678 | ML9012
+51,21050,Zoe Taylor,20,zoe.taylor@gmail.com,AI6789
+52,21051,Adam Anderson,22,adam.anderson@gmail.com,ITP3456 | DSA7890 | PET0293
+53,21052,Bella Thomas,21,bella.thomas@gmail.com,DMS1234 | WD5678 | ML9012
+54,21053,Chris Martinez,20,chris.martinez@gmail.com,SE2345 | AI6789 | AIN1212
+55,21054,Dave Robinsons,19,dave.robinson@gmail.com,ITP3456 | DSA7890 | PET0293
+56,21055,Renny,20,renz@mail.com,DMS1234 | WD5678 | ML9012
+57,21056,123,100,mohamedali2626&$@coldmail.com,SE2345 | AI6789 | AIN1212
+58,21057,Tim Jones,20,timjones@mail.com,ITP3456 | DSA7890 | PET0293
+59,21058,Mike Johnson,25,mikejohnson@mail.com,DMS1234 | WD5678 | ML9012
+60,21059,Mike Sanders,23,mike@mail.com,SE2345 | AI6789 | AIN1212
+61,21060,Bob,20,bob@gmail.com,ITP3456 | DSA7890 | PET0293
+62,21061,Mike Sanders,23,mike@imail.com,DMS1234 | WD5678 | ML9012
+63,21062,My Broski,21,broski_for_life@gmail.com,
+64,21063,Jerry,23,jerrytom@gmail.com,S&E3024 | AIN1212 | ML9012 | DMS1234
+65,21064,Tim James,20,tim@mail.com,BCS6789 | WD5678
+66,21065,Tim Scott,20,tom@mail.com,
+67,21066,Johny Smith,20,johnsmith@mail.xom,
+68,21067,John Smith,22,john@mail.com,
+69,21068,Bob Johnson,21,bob@mail.com,

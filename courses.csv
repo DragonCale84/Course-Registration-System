@@ -1,0 +1,13 @@
+No.,Course Code,Course ID,Course Name,Available Seats,Total Seats
+1,ITP,3456,Introduction to Programming,10,30
+2,DSA,7890,Data Structures and Algorithms,0,20
+3,DMS,1234,Database Management Systems,5,25
+4,WD,5678,Web Development,4,25
+5,ML,9012,Machine Learning,2,20
+6,SE,2345,Software Engineering,1,20
+7,AI,6789,Artificial Intelligence,0,25
+8,AIN,1212,Artificial Intelligence Networking,0,40
+9,PCE,0293,Practical Ethics,58,80
+10,LAW,1234,Introduction to Law,30,30
+11,S&E,3024,Science and Ethics,28,30
+12,BCS,6789,Basics in Computer Science 1,19,20
